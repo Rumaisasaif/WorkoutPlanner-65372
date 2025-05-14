@@ -24,14 +24,12 @@ Get your BMI and personalized workout recommendations.
 
 Running Unit Tests
 Make sure you have pytest installed:
-
-bash
-Copy
-Edit
 pip install pytest
 Run the tests using:
 
 pytest test_workout_time_planner.py
 Version History
 v1.0: Basic BMI calculation and workout advice.
+v2.0: Added home vs gym workout recommendations.
+
 
